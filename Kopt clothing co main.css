@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+  width: 100%;
+    text-align: center;
+    align-content: center;
+    background-image: url("file:///Users/MikesMac/Desktop/LondonCity.jpeg");
+    background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align:center;
+  margin:0px;
+  padding:0px;
+}
+
+.Title {
+    font-family: 'Permanent Marker', cursive;
+    color: whitesmoke;
+    text-align: center;
+  font-weight: 300;
+font-size: 7vw;
+    padding-top: 5vw;
+    
+}
+
+.subtitle {
+    font-family:monospace;
+    color: white;
+    text-align: center;
+  font-weight:0;
+font-size: 2.5vw;
+    padding-bottom: 5vw;
+}
