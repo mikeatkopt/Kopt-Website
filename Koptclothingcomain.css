@@ -44,10 +44,9 @@ font-size: 25;
 min-height: 300px;
 }
 
-.thumbnail h4 {
-    text-align: center;
-    font-family:monospace;
-    
+.imgtitle {
+    text-align:;
+    overflow: hidden;
 }
 
 .subtext {
