@@ -43,11 +43,11 @@ font-size: 25;
 .thumbnail img{
 min-height: 300px;
 }
-}
 
-.imgtitle {
+.thumbnail h4 {
     text-align: center;
-    overflow: hidden;
+    font-family:monospace;
+    
 }
 
 .subtext {
