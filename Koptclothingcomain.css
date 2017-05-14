@@ -34,3 +34,10 @@ font-size: 7vw;
 font-size: 2.5vw;
     padding-bottom: 5vw;
 }
+
+.row li {
+  width: 33.3%;
+  float: right;
+    border-left: 5px;
+    border-right: 5px;
+}
