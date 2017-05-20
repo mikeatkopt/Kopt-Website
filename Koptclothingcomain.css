@@ -20,8 +20,6 @@ body{
   font-weight: 300;
 font-size: 125px;
     margin: 1vw !important;
-    padding-top: 15vw;
-    
 }
 
 .subtitle {
@@ -31,7 +29,6 @@ font-size: 125px;
   font-weight:0;
 font-size: 25;
     padding-bottom: 5vw;
-    padding-top: 20px;
     display:inline-block;
     margin: 0 !important;   
 }
