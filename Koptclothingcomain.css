@@ -35,12 +35,24 @@ font-size: 25;
     margin: 0 !important;   
 }
 
+.second-page {
+    width: 100%;
+    height: 100%;
+    background-color:antiquewhite;
+}
+
 .row {
     margin-top: 2vw;
     margin-left: 1vw;
     margin-right: 1vw;
     margin-bottom: 1vw;
+    padding-top: 150px;
 }
+
+.thumbnail {
+    
+}
+
 .thumbnail img{
 min-height: 300px;
 }
